@@ -4,3 +4,6 @@
 [submodule "dlg"]
 	path = dlg
 	url = git@github.com:IKACE/dlg.git
+[submodule "invertinggradients"]
+	path = invertinggradients
+	url = git@github.com:IKACE/invertinggradients.git
