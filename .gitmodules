@@ -3,4 +3,4 @@
 	url = https://github.com/IKACE/DifferentialByzantine-1.git
 [submodule "dlg"]
 	path = dlg
-	url = git@github.com:mit-han-lab/dlg.git
+	url = git@github.com:IKACE/dlg.git
