@@ -13,7 +13,7 @@ The experiments are divided into 2 parts: combining data privacy and Byzantine r
 
 ## Data Privacy and Byzantine Resilience for CNNs
 
-Run ./DifferentialByzantine/reproduce.py to reproduce accuracy and loss results for CNNS. Set privacy-epsilon argument to be 0.5 to enable gradient sparsification, set it between (0, 1) to enable Gaussian noise injection for differential privacy, and set it to None to disable differential privacy. 
+Run ./DifferentialByzantine/reproduce.py to reproduce accuracy and loss results for CNNs. Set privacy-epsilon argument to be 0.5 to enable gradient sparsification, set it between (0, 1) to enable Gaussian noise injection for differential privacy, and set it to None to disable differential privacy. 
 
 ## Reconstructing original data from gradients
 
