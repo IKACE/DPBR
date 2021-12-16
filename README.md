@@ -23,7 +23,7 @@ Run ./dlg/main.py to reconstruct a selected image from a batch of customized siz
 
 Run ./invertinggradients/ResNet32-10\ -\ Recovering\ 100\ CIFAR-100\ images.ipynb to reconstruct a batch of 100 images from CIFAR-100, one for each class.
 
-# Results
+# Result Plots
 ## Byzantine Resilience of CNN without Data Privacy Measures
 ![](/plots/591_cnn_no_noise.png)
 
